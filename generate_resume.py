@@ -16,15 +16,14 @@ def create_pdf(filename):
     story = []
     
     # Header
-    story.append(Paragraph("ESHAN SHUKLA", title_style))
-    story.append(Paragraph("System Engineer @ TCS | India", subtitle_style))
-    story.append(Spacer(1, 12))
+    story.append(Paragraph("VAIBHAVI KHARPURIYA", title_style))
+    story.append(Spacer(1, 4))
     
-    # Contact
+    # Contact Info
     contact_info = """
-    <b>Email:</b> eshan90shukla@gmail.com | <b>Phone:</b> +91 7522088800<br/>
-    <b>LinkedIn:</b> www.linkedin.com/in/eshan-shukla-b48a8a21b<br/>
-    <b>Portfolio:</b> eshan25s.github.io/Portfolio2/
+    <b>Email:</b> vaibhavikharpuriya@gmail.com | <b>Phone:</b> +91 9373289372<br/>
+    <b>LinkedIn:</b> www.linkedin.com/in/vaibhavi-k-035a63219<br/>
+    <b>Portfolio:</b> vaibhavikharpuriya25-art.github.io/portfolio/
     """
     story.append(Paragraph(contact_info, normal_style))
     story.append(Spacer(1, 12))
