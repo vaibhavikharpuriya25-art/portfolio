@@ -15,27 +15,15 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>AI Automation Engineer</h4>
-                <h5>Tata Consultancy Services</h5>
-              </div>
-              <h3>Present</h3>
-            </div>
-            <p>
-              Automated critical L1 operational tasks through AI Agents and Large Language Models (LLMs).
-              Enabled intelligent monitoring, alert analysis, and incident response across enterprise environments.
-              Supported scalable AI and automation solutions.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
                 <h4>Data Engineer</h4>
                 <h5>Tata Consultancy Services</h5>
               </div>
-              <h3>Jun 2025 - Present</h3>
+              <h3>June 2025 - Present</h3>
             </div>
             <p>
-              Data Engineer role focusing on data transformation, integration, and enterprise reporting workflows.
+              Developing scalable ETL pipelines using Azure Data Factory, Azure Databricks, PySpark, and SQL.
+              Automating L1 operational workflows using AI Agents, LLMs, and RAG.
+              Optimizing SQL queries, data ingestion pipelines, and Power BI dashboards.
             </p>
           </div>
           <div className="career-info-box">
