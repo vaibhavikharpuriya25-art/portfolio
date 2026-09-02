@@ -87,23 +87,23 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVOPS</h3>
-              <h4>Cloud & Automation</h4>
+              <h3>DATA ENGINEERING</h3>
+              <h4>ETL & Cloud Pipelines</h4>
               <p>
-                Building, deploying and managing scalable cloud and automation
-                solutions with a strong focus on CI/CD pipelines, infrastructure
-                as code, and system reliability.
+                Building, optimizing, and managing scalable ETL pipelines and data
+                processing solutions with a strong focus on Azure Databricks, PySpark,
+                SQL, AWS, and enterprise reporting workflows.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Kubernetes</div>
-                <div className="what-tags">Docker</div>
-                <div className="what-tags">Ansible</div>
-                <div className="what-tags">Jenkins</div>
-                <div className="what-tags">Linux</div>
-                <div className="what-tags">Bash</div>
+                <div className="what-tags">Databricks</div>
+                <div className="what-tags">PySpark</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">ETL Pipelines</div>
                 <div className="what-tags">AWS</div>
-                <div className="what-tags">Terraform</div>
+                <div className="what-tags">Delta Lake</div>
+                <div className="what-tags">Power BI</div>
               </div>
               <div className="what-arrow"></div>
             </div>
